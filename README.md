@@ -8,3 +8,5 @@ Estos patrones se enfocan en cómo los objetos interactúan y se comunican entre
 - Mediator: Reduce la complejidad de la comunicación entre múltiples objetos al hacer que se comuniquen a través de un mediador central en lugar de referirse entre sí directamente.
 - Chain of Responsibility: Permite que un objeto pase una petición a una cadena de objetos hasta que uno de ellos la maneje. Es útil en sistemas de manejo de eventos o solicitudes.
 - State: Permite que un objeto altere su comportamiento cuando su estado interno cambia. Es útil cuando un objeto debe cambiar su comportamiento basado en su estado.
+
+https://diardon.wordpress.com/2024/12/03/patrones-de-diseno-parte-final/
