@@ -1,4 +1,6 @@
 Patrones de Comportamiento
+Estos patrones se enfocan en cómo los objetos interactúan y se comunican entre sí.
+
 - Observer: Define una relación de uno a muchos entre objetos, de manera que cuando un objeto cambia de estado, todos sus dependientes son notificados y actualizados automáticamente. Es común en sistemas de notificación.
 - Strategy: Permite definir una familia de algoritmos y hace que sean intercambiables sin cambiar el contexto que los usa. Es útil cuando se necesita cambiar el comportamiento de un algoritmo en tiempo de ejecución.
 - Command: Encapsula una petición como un objeto, lo que permite parametrizar los clientes con colas, solicitudes y operaciones. Es útil en la creación de deshacer y rehacer en aplicaciones.
